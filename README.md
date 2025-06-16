@@ -33,18 +33,6 @@ C# (.NET Framework / WinForms)
 Regex for G-code parsing
 Basic linear algebra for affine transformation
 
-Folder StructureGCodeAffineModifier/
-├── AffineTransform.cs
-├── GCodeParser.cs
-├── PointValidator.cs
-├── Form1.cs
-├── Form1.Designer.cs
-├── Program.cs
-└── README.md
-
-Getting Started
-Clone the repo:
-
 Use Case
 This tool is especially useful for:
 - PCB board alignment after flipping during the testing or manufacturing process
